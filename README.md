@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System
 
 ## Project Overview
@@ -85,3 +86,7 @@ Upon running the program, users are presented with a menu allowing navigation to
 
 ## License
 This project is licensed under the MIT License.
+=======
+# hospital-management-system
+Hospital Management System using C++ and OOPS concept
+>>>>>>> 7566459b6bacc10ec6200994b96ea0732d69b8e8
